@@ -25,27 +25,27 @@
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
+        "name":" Air Jordan 1 Low G",
         "price": 300,
-        "image": "images/5.png"
+        "image": "images/shoe5page.png"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
+        "name":" Jordan Spizike Low",
         "price": 200,
-        "image": "images/6.png"
+        "image": "images/shoe6page.png"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
+        "name":" Luka 5 'Viper Edge'",
         "price": 200,
-        "image": "images/7.png"
+        "image": "images/shoe7page.png"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "name":" Jordan Flight Court",
         "price": 200,
-        "image": "images/8.png"
+        "image": "images/shoe8page.png"
     }
 
 ]
